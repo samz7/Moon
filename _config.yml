@@ -8,8 +8,8 @@ words_per_minute:   200
 logo:               'assets/img/sy.png'
 background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
-url:                https://taylantatli.github.io/Moon
+locale:             true
+url:                https://samz7.github.io/blog
 
 # Jekyll
 permalink:          /blog/
@@ -39,11 +39,11 @@ disqus_shortname:   samz7
   #ad-slot:
 #bing-verify:
 email: saminc97@gmail.com
-twitter:            twitter.com/sam_ysr
+twitter:            sam_ysr
 #facebook:           
-github-url:         github.com/samz7
+github-url:         samz7
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          www.linkedin.com/in/samin-yasar-39191a195/
+linkedin:          samin-yasar-39191a195/
 #xing:              username
 #instagram:          username
 #lastfm:            username
