@@ -1,17 +1,18 @@
 # Site
 title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+bio:                'Congratulations, you have found me. Read on and contemplate'
+description:        "This is a documentation of my daily and weekly thoughts. Feel free to 
+                      get in touch with me on twitter or linkedin"
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
+logo:               'assets/img/sy.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
 
 # Jekyll
-permalink:          /:title/
+permalink:          /blog/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -26,7 +27,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   samz7
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -40,7 +41,7 @@ disqus_shortname:   taylantatli
 #email:
 twitter:            username
 facebook:           username
-github-url:         username
+github-url:         github.com/samz7
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
