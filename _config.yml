@@ -1,12 +1,12 @@
 # Site
-title:              Moon
+title:              Samin Yasar
 bio:                'Congratulations, you have found me. Read on and contemplate'
 description:        "This is a documentation of my daily and weekly thoughts. Feel free to 
                       get in touch with me on twitter or linkedin"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/sy.png'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
@@ -38,20 +38,20 @@ disqus_shortname:   samz7
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
+email: saminc97@gmail.com
+twitter:            twitter.com/sam_ysr
+#facebook:           
 github-url:         github.com/samz7
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          www.linkedin.com/in/samin-yasar-39191a195/
 #xing:              username
-instagram:          username
+#instagram:          username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
