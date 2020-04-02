@@ -9,10 +9,10 @@ logo:               'assets/img/sy.png'
 background:         'assets/img/background.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             true
-url:                https://samz7.github.io/blog
+url:                /.
 
 # Jekyll
-permalink:          /blog/
+permalink:          /:categories/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:

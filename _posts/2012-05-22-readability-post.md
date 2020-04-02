@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-date: 2012-05-22
-excerpt: "A ton of text to test readability."
+title: "Dead man's perspective"
+date: 2020-04-01
+category: posts
+excerpt: "How might the perspective of a dead person look like"
 tags: [sample post, readability, test]
 comments: true
 ---
