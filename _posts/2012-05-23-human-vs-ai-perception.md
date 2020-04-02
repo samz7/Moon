@@ -4,7 +4,7 @@ title: "AI perception vs Human Perception"
 date: 2020-04-02
 categories: posts
 excerpt: "Can we ever make an AI understand what we are perceiving?"
-tags: [sample post, readability, test, image, feature]
+tags: [computer vision, philosophy, neural networs]
 feature: https://images.unsplash.com/photo-1483519173755-be893fab1f46?ixlib=rb-1.2.1&w=1000&q=80
 comments: true
 ---
