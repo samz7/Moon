@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "on Creativity"
-date: 2020-04-02
+date: 2020-10-15
 categories: posts
 excerpt: "some guidlines I use for creative thinking"
 tags: [innovation, thought patterns, philosophy, thinking]
